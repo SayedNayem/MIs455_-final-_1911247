@@ -1,0 +1,25 @@
+#search{
+    border-radius: 2rem;
+    margin-left: 1rem;
+      }
+
+h2{margin: 2rem;
+        padding: 2rem; 
+    }
+        
+#container{
+        margin: 2rem;
+      }
+    
+#limit{
+    border-radius: 2rem;
+
+}
+
+.button{
+    border-radius: 3rem; 
+    padding:0.4rem;
+}
+
+.upper 
+{background: rgb(141, 118, 118);}
